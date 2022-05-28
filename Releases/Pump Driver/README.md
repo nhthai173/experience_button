@@ -8,7 +8,7 @@
 Lastest: v1
 ```
 
-There are a total of 6 statuses to display
+There are total 6 statuses to display
 
 ![](https://i.imgur.com/9qWawt9.png)
 
